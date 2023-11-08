@@ -1,11 +1,10 @@
 # AlohomoraBoundaryDetection
 Boundary Detection using Classical Pb-lite method.
 
-# Alohomora
+## Overview of Algorithm
 
-Course Homework for RBE549 - Computer Vision (Fall 2022)
+![image](https://github.com/cskate1997/AlohomoraBoundaryDetection/assets/94412831/90204bdc-8f8c-450e-a297-cda500fafc92)
 
-Master of Science in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
 ## Requirements:
 
@@ -47,6 +46,13 @@ E.g. To load DenseNet model, run the following command:
 ```
 python3 Test.py --ModelPath ../Checkpoints_dense/model.ckpt
 ```
+## Results
+
+![image](https://github.com/cskate1997/AlohomoraBoundaryDetection/assets/94412831/9f3e7a97-d70b-4701-8681-7bf055f9d2db)
+
+
+
+
 ## References
 
 1. https://rbe549.github.io/fall2022/hw/hw0/
