@@ -50,7 +50,7 @@ python3 Test.py --ModelPath ../Checkpoints_dense/model.ckpt
 
 ![image](https://github.com/cskate1997/AlohomoraBoundaryDetection/assets/94412831/9f3e7a97-d70b-4701-8681-7bf055f9d2db)
 
-
+Comparision from the results of Canny, Sobel and pb-lite.
 
 
 ## References
