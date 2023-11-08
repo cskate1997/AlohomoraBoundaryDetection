@@ -1,5 +1,5 @@
 # AlohomoraBoundaryDetection
-Boundary Detection using Classical Pb-lite method.
+Boundary Detection using Classical Pb-lite method. Also We used Deep Learning method for classification Task using ResNet, ResNext, DenseNet for classification.
 
 ## Overview of Algorithm
 
@@ -30,6 +30,8 @@ python3 Wrapper.py
 2. The outputs of the code will be saved in respective folders already made.
 
 ### Phase 2:
+This Phase we have used ResNet, ResNeXT, DenseNET for classification Task. Also Compared Results in the Report.
+
 
 #### Training:
 1. To start training model open 'Alohomora/Phase2/Code'
